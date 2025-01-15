@@ -1,2 +1,15 @@
-# To-Do-List
-It is a simple and intuitive Todo List application built with vanilla JavaScript, HTML, and CSS. This project allows users to add tasks with due dates, dynamically render a list of tasks, and delete tasks as needed. It is a great starting point for understanding DOM manipulation and event handling in JavaScript.
+#Todo List Application
+A lightweight and interactive Todo List application developed using vanilla JavaScript, HTML, and CSS. This project demonstrates dynamic DOM manipulation and event handling, providing a simple way to manage tasks.
+
+###Features
+- Add tasks with a title and due date.
+- Dynamically renders the task list in real-time.
+- Delete tasks individually with a single click.
+- Minimalistic and user-friendly design.
+
+###Technologies Used
+- HTML: Provides the structure for the application.
+- CSS: Adds styling and improves visual appeal.
+- JavaScript: Powers the application's interactivity.
+
+This repository is a great resource for beginners looking to learn and practice basic web development concepts.
